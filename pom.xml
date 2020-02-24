@@ -12,7 +12,7 @@
     <version>1.0.0-SNAPSHOT</version>
 
     <properties>
-        <jackson.version>2.9.8</jackson.version>
+        <jackson.version>2.10.2</jackson.version>
         <aws.lambda.events.version>2.2.5</aws.lambda.events.version>
         <aws.lambda.java.core.version>1.2.0</aws.lambda.java.core.version>
         <gramba.version>1.0.0-SNAPSHOT</gramba.version>
