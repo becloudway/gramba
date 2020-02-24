@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath>
+          <entry name="$MAVEN_REPOSITORY$/com/google/dagger/dagger-compiler/2.21/dagger-compiler-2.21.jar" />
+          <entry name="$MAVEN_REPOSITORY$/com/google/dagger/dagger/2.21/dagger-2.21.jar" />
+          <entry name="$MAVEN_REPOSITORY$/javax/inject/javax.inject/1/javax.inject-1.jar" />
+          <entry name="$MAVEN_REPOSITORY$/com/google/dagger/dagger-producers/2.21/dagger-producers-2.21.jar" />
+          <entry name="$MAVEN_REPOSITORY$/com/google/guava/guava/25.0-jre/guava-25.0-jre.jar" />
+          <entry name="$MAVEN_REPOSITORY$/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar" />
+          <entry name="$MAVEN_REPOSITORY$/org/checkerframework/checker-compat-qual/2.5.3/checker-compat-qual-2.5.3.jar" />
+          <entry name="$MAVEN_REPOSITORY$/com/google/errorprone/error_prone_annotations/2.1.3/error_prone_annotations-2.1.3.jar" />
+          <entry name="$MAVEN_REPOSITORY$/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.jar" />
+          <entry name="$MAVEN_REPOSITORY$/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14.jar" />
+          <entry name="$MAVEN_REPOSITORY$/com/google/dagger/dagger-spi/2.21/dagger-spi-2.21.jar" />
+          <entry name="$MAVEN_REPOSITORY$/com/google/googlejavaformat/google-java-format/1.5/google-java-format-1.5.jar" />
+          <entry name="$MAVEN_REPOSITORY$/com/google/errorprone/javac-shaded/9-dev-r4023-3/javac-shaded-9-dev-r4023-3.jar" />
+          <entry name="$MAVEN_REPOSITORY$/com/squareup/javapoet/1.11.1/javapoet-1.11.1.jar" />
+          <entry name="$MAVEN_REPOSITORY$/javax/annotation/jsr250-api/1.0/jsr250-api-1.0.jar" />
+          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.16.8/lombok-1.16.8.jar" />
+          <entry name="$MAVEN_REPOSITORY$/org/mapstruct/mapstruct-processor/1.3.0.Final/mapstruct-processor-1.3.0.Final.jar" />
+          <entry name="$MAVEN_REPOSITORY$/com/jolira/hickory/1.0.0/hickory-1.0.0.jar" />
+          <entry name="$MAVEN_REPOSITORY$/org/mapstruct/mapstruct/1.3.0.Final/mapstruct-1.3.0.Final.jar" />
+          <entry name="$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar" />
+          <entry name="$MAVEN_REPOSITORY$/org/assertj/assertj-core/3.11.1/assertj-core-3.11.1.jar" />
+          <entry name="$MAVEN_REPOSITORY$/com/puppycrawl/tools/checkstyle/8.14/checkstyle-8.14.jar" />
+          <entry name="$MAVEN_REPOSITORY$/org/codehaus/plexus/plexus-container-default/1.6/plexus-container-default-1.6.jar" />
+          <entry name="$MAVEN_REPOSITORY$/org/springframework/spring-test/4.0.3.RELEASE/spring-test-4.0.3.RELEASE.jar" />
+          <entry name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.0.3.RELEASE/spring-beans-4.0.3.RELEASE.jar" />
+          <entry name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.0.3.RELEASE/spring-context-4.0.3.RELEASE.jar" />
+          <entry name="$MAVEN_REPOSITORY$/joda-time/joda-time/2.9/joda-time-2.9.jar" />
+        </processorPath>
+        <module name="aws-s3-configuration" />
+        <module name="aws-secretmanager-configuration" />
+        <module name="aws-ses-configuration" />
+        <module name="gramba-aws-sdk-configuration" />
+        <module name="gramba-runtime" />
+        <module name="gramba-runtime-configuration" />
+        <module name="gramba-runtime-dev-addons" />
+        <module name="gramba-runtime-layer" />
+        <module name="gramba-test-lambda" />
+        <module name="mariadb-configuration" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="aws-s3-configuration" target="8" />
+      <module name="aws-secretmanager-configuration" target="8" />
+      <module name="aws-ses-configuration" target="8" />
+      <module name="gramba" target="8" />
+      <module name="gramba-aws-sdk-configuration" target="8" />
+      <module name="gramba-configurations" target="8" />
+      <module name="gramba-easy-reflection" target="8" />
+      <module name="gramba-native-image" target="8" />
+      <module name="gramba-runtime" target="8" />
+      <module name="gramba-runtime-configuration" target="8" />
+      <module name="gramba-runtime-dev-addons" target="8" />
+      <module name="gramba-runtime-layer" target="8" />
+      <module name="gramba-starter" target="1.8" />
+      <module name="gramba-test-lambda" target="8" />
+      <module name="mariadb-configuration" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

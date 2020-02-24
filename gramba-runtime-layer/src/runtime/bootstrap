@@ -1,0 +1,4 @@
+#!/bin/sh
+set -euo pipefail
+
+./function -Djavax.net.ssl.trustStore=/opt/cacerts -Djavax.net.ssl.trustStorePassword=changeit -Djava.library.path=/opt/
