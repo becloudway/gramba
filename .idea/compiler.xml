@@ -43,7 +43,6 @@
         <module name="gramba-runtime-configuration" />
         <module name="gramba-runtime-dev-addons" />
         <module name="gramba-runtime-layer" />
-        <module name="gramba-test-lambda" />
         <module name="mariadb-configuration" />
       </profile>
     </annotationProcessing>

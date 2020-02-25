@@ -11,6 +11,7 @@
         <option value="$PROJECT_DIR$/gramba-configurations/pom.xml" />
         <option value="$PROJECT_DIR$/gramba-easy-reflection/pom.xml" />
         <option value="$PROJECT_DIR$/gramba-native-image/pom.xml" />
+        <option value="$PROJECT_DIR$/gramba-test-lambda/pom.xml" />
       </set>
     </option>
   </component>

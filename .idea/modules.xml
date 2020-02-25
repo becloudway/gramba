@@ -6,7 +6,6 @@
       <module fileurl="file://$PROJECT_DIR$/gramba-runtime/gramba-runtime.iml" filepath="$PROJECT_DIR$/gramba-runtime/gramba-runtime.iml" />
       <module fileurl="file://$PROJECT_DIR$/gramba-runtime-dev-addons/gramba-runtime-dev-addons.iml" filepath="$PROJECT_DIR$/gramba-runtime-dev-addons/gramba-runtime-dev-addons.iml" />
       <module fileurl="file://$PROJECT_DIR$/gramba-runtime-layer/gramba-runtime-layer.iml" filepath="$PROJECT_DIR$/gramba-runtime-layer/gramba-runtime-layer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/gramba-test-lambda/gramba-test-lambda.iml" filepath="$PROJECT_DIR$/gramba-test-lambda/gramba-test-lambda.iml" />
     </modules>
   </component>
 </project>
