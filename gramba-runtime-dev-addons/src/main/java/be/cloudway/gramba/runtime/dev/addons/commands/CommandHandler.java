@@ -1,6 +1,6 @@
-package be.cloudway.grambda.runtime.dev.addons.commands;
+package be.cloudway.gramba.runtime.dev.addons.commands;
 
-import be.cloudway.grambda.runtime.dev.addons.model.GrambaSettings;
+import be.cloudway.gramba.runtime.dev.addons.model.GrambaSettings;
 import org.apache.commons.cli.*;
 
 //TODO: Remove this from the core module

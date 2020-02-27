@@ -1,10 +1,10 @@
-package be.cloudway.grambda.runtime.dev.addons.mock;
+package be.cloudway.gramba.runtime.dev.addons.mock;
 
 import be.cloudway.gramba.runtime.GrambaRuntime;
+import be.cloudway.gramba.runtime.dev.addons.helpers.MockHandler;
 import be.cloudway.gramba.runtime.eventrunner.RunOnceEventRunner;
 import be.cloudway.gramba.runtime.strategy.AwsApiStrategy;
-import be.cloudway.grambda.runtime.dev.addons.helpers.MockHandler;
-import be.cloudway.grambda.runtime.dev.addons.strategy.MockAwsApiStrategy;
+import be.cloudway.gramba.runtime.dev.addons.strategy.MockAwsApiStrategy;
 import org.junit.jupiter.api.Test;
 
 public class MockRunnerTest {

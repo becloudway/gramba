@@ -28,4 +28,8 @@ public class JacksonHelper {
             throw new RuntimeException(e);
         }
     }
+
+    public static ObjectMapper getObjectMapper () {
+        return JacksonHelper.OBJECT_MAPPER;
+    }
 }
