@@ -1,4 +1,4 @@
-package be.cloudway.grambda.runtime.dev.addons.strategy;
+package be.cloudway.gramba.runtime.dev.addons.strategy;
 
         import be.cloudway.gramba.runtime.Invocation;
         import be.cloudway.gramba.runtime.helpers.JacksonHelper;

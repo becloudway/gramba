@@ -1,4 +1,4 @@
-package be.cloudway.grambda.runtime.dev.addons.model;
+package be.cloudway.gramba.runtime.dev.addons.model;
 
 public class GrambaSettings {
     private boolean testMode;

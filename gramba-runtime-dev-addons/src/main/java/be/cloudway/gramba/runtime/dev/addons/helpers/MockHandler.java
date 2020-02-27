@@ -1,4 +1,4 @@
-package be.cloudway.grambda.runtime.dev.addons.helpers;
+package be.cloudway.gramba.runtime.dev.addons.helpers;
 
 import be.cloudway.gramba.runtime.handler.GrambaLambdaHandler;
 import be.cloudway.gramba.runtime.model.ApiResponse;
