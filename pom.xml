@@ -12,7 +12,7 @@
     <packaging>pom</packaging>
 
     <properties>
-        <jackson.version>2.10.2</jackson.version>
+        <jackson.version>2.12.7.1</jackson.version>
         <aws.lambda.java.core.version>1.2.0</aws.lambda.java.core.version>
         <substratevm.version>1.0.0-rc13</substratevm.version>
         <junit.version>5.1.0</junit.version>
